@@ -55,3 +55,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# CS188
+*.test_output
